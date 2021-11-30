@@ -1,0 +1,7 @@
+Definições do Projeto:
+
+Linguagem de Programação: C#
+Biblioteca de Redes: System.Net.Sockets
+Classes: Server, Client, ClientServer, Dealer, GameManager, CardDatabase e PlayerDeck (principais)
+Mensagens Trocadas: Somente texto e json (strings)
+Protocólos de Camada de Transporte utilizados: TCP/IP por dar prioridade para a ordenação dos dados (não necessitamos de velocidade).
